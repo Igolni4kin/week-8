@@ -1,0 +1,16 @@
+C:\Users\37255\source\repos\NameReverse\RandomLetter\bin\Debug\net5.0\RandomLetter.exe
+C:\Users\37255\source\repos\NameReverse\RandomLetter\bin\Debug\net5.0\RandomLetter.deps.json
+C:\Users\37255\source\repos\NameReverse\RandomLetter\bin\Debug\net5.0\RandomLetter.runtimeconfig.json
+C:\Users\37255\source\repos\NameReverse\RandomLetter\bin\Debug\net5.0\RandomLetter.runtimeconfig.dev.json
+C:\Users\37255\source\repos\NameReverse\RandomLetter\bin\Debug\net5.0\RandomLetter.dll
+C:\Users\37255\source\repos\NameReverse\RandomLetter\bin\Debug\net5.0\ref\RandomLetter.dll
+C:\Users\37255\source\repos\NameReverse\RandomLetter\bin\Debug\net5.0\RandomLetter.pdb
+C:\Users\37255\source\repos\NameReverse\RandomLetter\obj\Debug\net5.0\RandomLetter.csproj.AssemblyReference.cache
+C:\Users\37255\source\repos\NameReverse\RandomLetter\obj\Debug\net5.0\RandomLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37255\source\repos\NameReverse\RandomLetter\obj\Debug\net5.0\RandomLetter.AssemblyInfoInputs.cache
+C:\Users\37255\source\repos\NameReverse\RandomLetter\obj\Debug\net5.0\RandomLetter.AssemblyInfo.cs
+C:\Users\37255\source\repos\NameReverse\RandomLetter\obj\Debug\net5.0\RandomLetter.csproj.CoreCompileInputs.cache
+C:\Users\37255\source\repos\NameReverse\RandomLetter\obj\Debug\net5.0\RandomLetter.dll
+C:\Users\37255\source\repos\NameReverse\RandomLetter\obj\Debug\net5.0\ref\RandomLetter.dll
+C:\Users\37255\source\repos\NameReverse\RandomLetter\obj\Debug\net5.0\RandomLetter.pdb
+C:\Users\37255\source\repos\NameReverse\RandomLetter\obj\Debug\net5.0\RandomLetter.genruntimeconfig.cache
